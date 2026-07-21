@@ -1,0 +1,1 @@
+Generated from the Darsly technical requirements document. Wallet functionality was explicitly removed per the latest project decision. Open decisions are marked separately and should be confirmed before implementation.
