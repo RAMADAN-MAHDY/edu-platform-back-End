@@ -6,9 +6,9 @@ The recommended implementation is a modular REST API backed by PostgreSQL.
 
 Suggested stack:
 
-- Backend: NestJS or Express.js with TypeScript
+- Backend: NestJS  with TypeScript
 - Database: PostgreSQL
-- ORM: Prisma or TypeORM
+- ORM:TypeORM
 - Authentication: JWT access/refresh tokens + OTP where required
 - Object Storage: S3-compatible storage
 - Realtime: WebSocket or Server-Sent Events where required
